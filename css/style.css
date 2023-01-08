@@ -1,0 +1,50 @@
+.hidden {
+    display: none;
+}
+
+
+img {
+    position:absolute;
+    width:100%;
+    height:100%;
+    left: 0px;
+    top: 0px;
+    right:0px;
+    bottom:0px;
+    z-index: -1;
+    opacity:65%;
+    }
+
+
+
+#clock {
+    text-align: center;
+    vertical-align: middle;
+    font-size: 44px;
+}
+
+#greeting {
+    text-align: center;
+    font-size: 88px;
+    font-weight: bold;
+}
+
+#quote {
+    text-align: center;
+    font-size: 44px;
+}
+
+#weather {
+    text-align: center;
+    font-size: 33px;
+}
+
+#todo-form {
+    text-align: center;
+    scale: 1.5;
+}
+
+#todo-list {
+    text-align: center;
+    font-size: 33px;
+}
